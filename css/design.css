@@ -307,7 +307,7 @@ footer{
 }
 @media screen and (max-width:700px) {
   .bottom a::after{
-    left:185px;
+    left:165px;
     width:0%;
     transform:none;
     transition:0.4s ease;
